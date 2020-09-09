@@ -2,11 +2,11 @@
 
 
 ### CONNECT WITH ME 👁‍🗨
-[![Linkedin](https://img.shields.io/badge/-Kuheli%20Ahsan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/)
+[![Linkedin](https://img.shields.io/badge/-Kuheli%20Ahsan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Kuheli Ahsan/)](https://www.linkedin.com/in/kuheli-ahsan-620b9218a/)
 
 ## ABOUT ME 👋 
 
-A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm open-source development enthusiast.
+A Full Stack Developer with Experience in Python Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm open-source development enthusiast.
 
 Have also been involved in personal research on Machine Learning and Natural Language Processing.
 
